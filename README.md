@@ -1,4 +1,4 @@
-# Testing Coderrect
+# Testing TEST_REPLACEMENT
 
 ## Detecting Races
 Main.cpp currently has two races where OpenMP is performing concurrent increments to a shared variable
